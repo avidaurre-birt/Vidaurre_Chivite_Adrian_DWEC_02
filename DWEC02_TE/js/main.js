@@ -4,8 +4,8 @@ import GastoCombustible from "./gastosCombustible.js";
 // ------------------------------ 1. VARIABLES GLOBALES ------------------------------
 let tarifasJSON = null;
 let gastosJSON = null;
-let tarifasJSONpath = '/DWEC02_TE/components/tarifasCombustible.json';
-let gastosJSONpath = '/DWEC02_TE/components/gastosCombustible.json';
+let tarifasJSONpath = '/Vidaurre_Chivite_Adrian_DWEC_02/DWEC02_TE/json/tarifasCombustible.json';
+let gastosJSONpath = '/Vidaurre_Chivite_Adrian_DWEC_02/DWEC02_TE/json/gastosCombustible.json';
 
 // ------------------------------ 2. CARGA INICIAL DE DATOS (NO TOCAR!) ------------------------------
 // Esto inicializa los eventos del formulario y carga los datos iniciales
